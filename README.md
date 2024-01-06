@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="me.jpeg">
+  <img style="background-size: fill" width="400" height="400" src="me_filtered.jpeg">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=golang,java,aws,nextjs,docker" />
   </a>
