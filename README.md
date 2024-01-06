@@ -1,8 +1,10 @@
 ## Hi there! 👋 I'm Hubert and I'm an IT involved guy!
 
+<p align="center">
+<img style="background-size: fill" width="400" height="400" src="me.jpeg">
+</p>
 
 <p align="center">
-  <img style="background-size: fill" width="400" height="400" src="me_filtered.jpeg">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=golang,java,aws,nextjs,docker" />
   </a>
@@ -38,7 +40,7 @@ Here are some ideas to get you started:
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maslo-sh&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=maslo-sh&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤝 Contact Me
 
